@@ -1,0 +1,1087 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr-fr" lang="fr-fr" >
+	<head>
+		  <base href="" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="SFD,SFI, Software Freedom Day, Software Freedom International, Free Software, FOSS" />
+  <meta name="title" content="Sponsors and Supporters" />
+  <meta name="author" content="Pockey" />
+  <meta name="description" content="Software Freedom Day - The worldwide celebration of Free Software!" />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Software Freedom Day - Sponsors and Supporters</title>
+  <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <link rel="stylesheet" href="http://www.softwarefreedomday.org/plugins/system/rokbox/themes/light/rokbox-style.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.softwarefreedomday.org/templates/rt_affinity_j15/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.softwarefreedomday.org/templates/rt_affinity_j15/css/style1.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.softwarefreedomday.org/templates/rt_affinity_j15/css/typography.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.softwarefreedomday.org/templates/rt_affinity_j15/css/planet.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.softwarefreedomday.org/templates/rt_affinity_j15/css/generic.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.softwarefreedomday.org/templates/system/css/system.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.softwarefreedomday.org/templates/system/css/general.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.softwarefreedomday.org/templates/rt_affinity_j15/css/rokmoomenu.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.softwarefreedomday.org/modules/mod_jflanguageselection/tmpl/mod_jflanguageselection.css" type="text/css" />
+  <style type="text/css">
+    <!--
+
+.osolCaptchaBlock{
+	width:100%;
+}
+.osolCaptchaBlock label{
+	
+}
+.osolCaptchaBlock table td{
+	
+	text-align:left;
+}
+
+	div.wrapper { margin: 0 auto; width: 979px;padding:0;}
+	#leftcol { width:210px;padding:0;float:left;}
+	#rightcol { width:0px;padding:0;}
+	#main-body { width:959px;padding:0;float:left;}
+	#maincol { width:704px;padding:0;float:right;}
+	#inset-block-left { width:0px;padding:0;}
+	#inset-block-right { width:0px;padding:0;}
+	#maincontent-block { margin-right:0px;margin-left:0px;}
+    -->
+  </style>
+  <script type="text/javascript" src="http://www.softwarefreedomday.org/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+  <script type="text/javascript" src="http://www.softwarefreedomday.org/media/system/js/caption.js"></script>
+  <script type="text/javascript" src="http://www.softwarefreedomday.org/plugins/system/rokbox/rokbox.js"></script>
+  <script type="text/javascript" src="http://www.softwarefreedomday.org/plugins/system/rokbox/themes/light/rokbox-config.js"></script>
+  <script type="text/javascript" src="http://www.softwarefreedomday.org/templates/rt_affinity_j15/js/rokfonts.js"></script>
+  <script type="text/javascript" src="http://www.softwarefreedomday.org/templates/rt_affinity_j15/js/rokdate.js"></script>
+  <script type="text/javascript" src="http://www.softwarefreedomday.org/templates/rt_affinity_j15/js/rokutils.js"></script>
+  <script type="text/javascript" src="http://www.softwarefreedomday.org/templates/rt_affinity_j15/js/rokutils.inputs.js"></script>
+  <script type="text/javascript" src="http://www.softwarefreedomday.org/templates/rt_affinity_j15/js/rokmoomenu.js"></script>
+  <script type="text/javascript" src="http://www.softwarefreedomday.org/templates/rt_affinity_j15/js/mootools.bgiframe.js"></script>
+  <script type="text/javascript" src="http://www.softwarefreedomday.org/modules/mod_rokintroscroller/rokintroscroller.js"></script>
+  <script type="text/javascript" src="http://www.softwarefreedomday.org/modules/mod_rokajaxsearch/js/rokajaxsearch.js"></script>
+  <script type="text/javascript">
+jQuery.noConflict();var rokboxPath = '/plugins/system/rokbox/';window.addEvent('domready', function() {
+		var modules = ['side-mod','module','moduletable'];
+		var header = ['h3'];
+		RokBuildSpans(modules, header);
+	});InputsExclusion.push('.content_vote','#login-module')window.addEvent('domready', function() {
+    	new Rokmoomenu($E('ul.menutop '), {
+    		bgiframe: false,
+    		delay: 500,
+    		verhor: true,
+    		animate: {
+    			props: ['height'],
+    			opts: {
+    				duration: 500,
+    				fps: 100,
+    				transition: Fx.Transitions.Quad.easeOut
+    			}
+    		},
+    		bg: {
+    			enabled: true,
+    			overEffect: {
+    				duration: 500,
+    				transition: Fx.Transitions.Sine.easeOut
+    			},
+    			outEffect: {
+    				duration: 600,
+    				transition: Fx.Transitions.Sine.easeOut
+    			}
+    		},
+    		submenus: {
+    			enabled: true,
+    			opacity: 0.9,
+    			overEffect: {
+    				duration: 50,
+    				transition: Fx.Transitions.Expo.easeOut
+    			},
+    			outEffect: {
+    				duration: 600,
+    				transition: Fx.Transitions.Sine.easeIn
+    			},
+    			offsets: {
+    				top: 3,
+    				right: 1,
+    				bottom: 0,
+    				left: 1
+    			}
+    		}
+    	});
+    });		window.addEvent('domready', function(){ var JTooltips = new Tips($$('.slickTip'), { maxTitleChars: 50, fixed: false}); });
+		window.addEvent('domready', function() {
+			var rnu = new RokIntroScroller('rokintroscroller', {
+				'arrows': {
+					'effect': true,
+					'opacity': 0.85
+				},
+				'scroll': {
+					'duration': 800,
+					'itemsPerClick': 6,
+					'transition': Fx.Transitions.Quad.easeOut
+				}
+			});
+		});window.addEvent((window.webkit) ? 'load' : 'domready', function() {
+				window.rokajaxsearch = new RokAjaxSearch({
+					'results': 'Résultats',
+					'close': '',
+					'websearch': 0,
+					'blogsearch': 0,
+					'imagesearch': 0,
+					'videosearch': 0,
+					'imagesize': 'MEDIUM',
+					'safesearch': 'MODERATE',
+					'search': ' Search...',
+					'readmore': 'Lire la suite',
+					'noresults': ' No results',
+					'advsearch': ' Advanced search',
+					'page': 'Page',
+					'page_of': ' of',
+					'searchlink': 'http://www.softwarefreedomday.org/index.php?option=com_search&amp;view=search&amp;tmpl=component',
+					'advsearchlink': 'http://www.softwarefreedomday.org/index.php?option=com_search&amp;view=search',
+					'uribase': 'http://www.softwarefreedomday.org/',
+					'limit': '10',
+					'perpage': '3',
+					'ordering': 'newest',
+					'phrase': 'any',
+					'hidedivs': '',
+					'includelink': 1,
+					'viewall': ' View all results',
+					'estimated': ' estimated',
+					'showestimated': 1,
+					'showpagination': 1,
+					'showcategory': 1,
+					'showreadmore': 1,
+					'showdescription': 1
+				});
+			});
+  </script>
+  <!--[if lte IE 6]>
+	   			<script type="text/javascript" src="/plugins/system/jbLibrary/includes/js/jquery.badBrowser.js"></script> 
+	   			 <![endif]-->
+
+			        <link href="http://www.softwarefreedomday.org/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+	</head>
+	<body id="ff-affinity" class="f-default style1 iehandle">
+		<!--Begin Top Bar-->
+				<div id="top-bar">
+			<div class="wrapper">
+				<div class="top-bar-padding">
+					<div class="topbar-strip">
+												<div class="date-block">
+							<span class="date1">Célébrez SFD 2013 le samedi 21 septembre</span>
+						</div>
+						                                                                                                <div class="flags-mod">
+                                                		<div class="moduletable">
+					<div id="jflanguageselection"><label for="jflanguageselection" class="jflanguageselection">Select</label>
+<select name="lang"  class="jflanguageselection" size="1" onchange="document.location.replace(this.value);">
+	<option value="http://www.softwarefreedomday.org/en/sponsors-and-supporters"   >English</option>
+	<option value="http://www.softwarefreedomday.org/de/sponsors-and-supporters"   >Deutsch</option>
+	<option value="http://www.softwarefreedomday.org/es/patrocinadores-y-promotores"   >Español</option>
+	<option value="http://www.softwarefreedomday.org/fr/partenaires"   selected="selected" >French</option>
+	<option value="http://www.softwarefreedomday.org/it/sponsors-and-supporters"   >Italian</option>
+	<option value="http://www.softwarefreedomday.org/pt/patrocinadores-e-apoiantes"   >Português</option>
+	<option value="http://www.softwarefreedomday.org/ru/sponsors-and-supporters"   >Russian</option>
+</select>
+</div><noscript><a href="en/sponsors-and-supporters"><span lang="en" xml:lang="en">English</span></a>&nbsp;<a href="de/sponsors-and-supporters"><span lang="de" xml:lang="de">Deutsch</span></a>&nbsp;<a href="es/patrocinadores-y-promotores"><span lang="es" xml:lang="es">Español</span></a>&nbsp;<a href="fr/partenaires"><span lang="fr" xml:lang="fr">French</span></a>&nbsp;<a href="it/sponsors-and-supporters"><span lang="it" xml:lang="it">Italian</span></a>&nbsp;<a href="pt/patrocinadores-e-apoiantes"><span lang="pt" xml:lang="pt">Português</span></a>&nbsp;<a href="ru/sponsors-and-supporters"><span lang="ru" xml:lang="ru">Russian</span></a>&nbsp;</noscript><!--JoomFish V2.1.7 (Dafad)-->
+<!-- &copy; 2003-2011 Think Network, released under the GPL. -->
+<!-- More information: at http://www.joomfish.net -->
+		</div>
+	
+                                                </div>
+                                                												<div id="accessibility">
+							<div id="buttons">
+								<a href="partenaires?fontstyle=f-larger" title="Increase Font Size" class="large"><span class="button png">&nbsp;</span></a>
+								<a href="partenaires?fontstyle=f-smaller" title="Decrease Font Size" class="small"><span class="button png">&nbsp;</span></a>
+							</div>
+							<div class="textsizer-desc">Text Size</div>
+						</div>
+																										<a href="partenaires#" id="lock-button" rel="rokbox[240 210][module=login-module]"><span id="lock-icon" class="login"></span><span>Login</span></a>
+																		</div>
+														</div>
+			</div>
+		</div>
+				<!--End Top Bar-->
+		<!--Begin Header-->
+		<div id="header">
+			<div id="header-overlay">
+				<div class="wrapper">
+										<a href="index.html" id="logo" class="png"></a>
+					                                                                                <div class="header-mod">
+                                        		<div class="moduletable">
+					<script type="text/javascript">
+//######################################################################################
+// Author: ricocheting.com
+// For: public release (freeware)
+// Date: 4/24/2003 (update: 6/26/2009)
+// Description: displays the amount of time until the "dateFuture" entered below.
+
+
+// NOTE: the month entered must be one less than current month. ie; 0=January, 11=December
+// NOTE: the hour is in 24 hour format. 0=12am, 15=3pm etc
+// format: dateFuture = new Date(year,month-1,day,hour,min,sec)
+// example: dateFuture = new Date(2003,03,26,14,15,00) = April 26, 2003 - 2:15:00 pm
+
+dateFuture = new Date(2012,8,15,9,0,0);
+
+// TESTING: comment out the line below to print out the "dateFuture" for testing purposes
+// document.write(dateFuture +"<br />");
+
+
+//###################################
+//nothing beyond this point
+function GetCount(){
+
+	dateNow = new Date();									//grab current date
+	amount = dateFuture.getTime() - dateNow.getTime();		//calc milliseconds between dates
+	delete dateNow;
+
+	// time is already past
+	if(amount < 0){
+		document.getElementById('countbox').innerHTML="Joyeux SFD!";
+		document.getElementById('tagline').innerHTML="";
+	}
+	// date is still good
+	else{
+		days=0;hours=0;mins=0;secs=0;out="";tagout="jusqu'à SFD 2012";
+
+		amount = Math.floor(amount/1000);//kill the "milliseconds" so just secs
+
+		days=Math.floor(amount/86400);//days
+		amount=amount%86400;
+
+		hours=Math.floor(amount/3600);//hours
+		amount=amount%3600;
+
+		mins=Math.floor(amount/60);//minutes
+		amount=amount%60;
+
+		secs=Math.floor(amount);//seconds
+
+            if(days != 0){out += days +" jour"+((days!=1)?"s":"");}
+            else { 
+                if(days = 0 || hours != 0){out += hours +":";}
+                if(days = 0 || hours != 0 || mins != 0){out += mins +":";}
+                out += secs ;
+                }
+		document.getElementById('countbox').innerHTML=out;
+		document.getElementById('tagline').innerHTML=tagout;
+
+		setTimeout("GetCount()", 1000);
+	}
+}
+
+window.onload=GetCount;//call when everything has loaded
+
+</script>
+
+<div style="position:relative;text-align:center !important;width:100%;color:#FDA80B;display:block;line-height:normal;margin:10px;">
+<div id="countbox" style="font-size:20px;font-weight:bold;"></div>
+<div id="tagline"></div>
+</div>		</div>
+	
+                                        </div>
+                                        											<div class=" search:43">
+		<div id="searchmod-surround">
+			<div class="searchmod-top"></div>
+			<div class="searchmod-main">
+								<div id="searchmod">
+					<div class="module">
+						<form name="rokajaxsearch" id="rokajaxsearch" class="blue" action="index.html" method="get">
+<div class="rokajaxsearch">
+	<div class="roksearch-wrapper">
+		<input id="roksearch_search_str" name="searchword" type="text" class="inputbox" value=" Search..." />
+	</div>
+	<input type="hidden" name="searchphrase" value="any"/>
+	<input type="hidden" name="limit" value="13" />
+	<input type="hidden" name="ordering" value="newest" />
+	<input type="hidden" name="view" value="search" />
+	<input type="hidden" name="Itemid" value="99999999" />
+	<input type="hidden" name="option" value="com_search" />
+
+	
+	<div id="roksearch_results"></div>
+</div>
+<div id="rokajaxsearch_tmp" style="visibility:hidden;display:none;"></div>
+</form>					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+									</div>
+			</div>
+		</div>
+		<!--End Header-->
+		<div id="page-bg"><div id="page-bg2">
+			<div class="wrapper">
+				<!--Begin Horizontal Menu-->
+								<div id="horiz-menu" class="moomenu"><div id="horiz-menu2"><div id="horiz-menu3">
+									<ul class="menutop" >
+			<li class="item1 " >
+			<a class="topdaddy link" href="index.html"  >
+						<span>Accueil</span>
+		</a>	
+			
+</li>	
+			<li class="item110 parent " >
+			<a class="topdaddy link" href="fr/participez"  >
+						<span>Participez</span>
+		</a>	
+				<div class="drop-wrap columns-1"><div class="png drop1"><div class="drop2"><div class="drop3"></div></div></div>
+	<ul class="png columns-1">
+					
+			<li class="item111  c0 coltop" >
+			<a class="link" href="http://wiki.softwarefreedomday.org/GuidedeD%C3%A9marrage"  >
+						<span>Guide de démarrage</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item112  c0" >
+			<a class="link" href="cgi-bin/register.py"  >
+						<span>Enregistrez votre équipe !</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item113  c0" >
+			<a class="link" href="http://wiki.softwarefreedomday.org/CategoryTeam2011"  >
+						<span>Equipes SFD sur le Wiki</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item114  c0" >
+			<a class="link" href="map/index.php?year=2011"  >
+						<span>Voir la carte SFD2011!</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item151  c0" >
+			<a class="link" href="fr/participez/countdown"  >
+						<span>SFD Countdown</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item155  c1 coltop" >
+			<a class="link" href="http://wiki.softwarefreedomday.org/Promote"  >
+						<span>Promote SFD</span>
+		</a>	
+			
+</li>	
+			</ul>
+	</div>
+		
+</li>	
+			<li class="item126 parent " >
+			<a class="topdaddy link" href="map.1"  >
+						<span>Carte des événements</span>
+		</a>	
+				<div class="drop-wrap columns-1"><div class="png drop1"><div class="drop2"><div class="drop3"></div></div></div>
+	<ul class="png columns-1">
+					
+			<li class="item157  c0 coltop" >
+			<a class="link" href="map/index.php?year=2013"  >
+						<span>2013</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item153  c0" >
+			<a class="link" href="map/index.php?year=2012"  >
+						<span>2012</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item149  c0" >
+			<a class="link" href="map/index.php?year=2011"  >
+						<span>2011</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item127  c0" >
+			<a class="link" href="map/index.php?year=2010"  >
+						<span>2010</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item128  c0" >
+			<a class="link" href="map/index.php?year=2009"  >
+						<span>2009</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item129  c0" >
+			<a class="link" href="map/index.php?year=2008"  >
+						<span>2008</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item130  c0" >
+			<a class="link" href="map/index.php?year=2007"  >
+						<span>2007</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item131  c0" >
+			<a class="link" href="map/index.php?year=2006"  >
+						<span>2006</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item132  c0" >
+			<a class="link" href="map/index.php?year=2005"  >
+						<span>2005</span>
+		</a>	
+			
+</li>	
+			</ul>
+	</div>
+		
+</li>	
+			<li class="item139 parent " >
+			<a class="topdaddy link" href="http://www.softwarefreedomday.org/fr/competition"  >
+						<span>Compétition</span>
+		</a>	
+				<div class="drop-wrap columns-1"><div class="png drop1"><div class="drop2"><div class="drop3"></div></div></div>
+	<ul class="png columns-1">
+					
+			<li class="item154  c0" >
+			<a class="link" href="fr/competition/winners-2011"  >
+						<span>2011</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item148  c0" >
+			<a class="link" href="fr/competition/gagnants-2010"  >
+						<span>2010</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item140  c0" >
+			<a class="link" href="fr/competition/gagnants-2009"  >
+						<span>2009</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item141  c0" >
+			<a class="link" href="fr/competition/gagnants-2008"  >
+						<span>2008</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item142  c0" >
+			<a class="link" href="fr/competition/gagnants-2007"  >
+						<span>2007</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item143  c1 coltop" >
+			<a class="link" href="fr/competition/gagnants-2006"  >
+						<span>2006</span>
+		</a>	
+			
+</li>	
+			</ul>
+	</div>
+		
+</li>	
+			<li class="item115 parent " >
+			<a class="topdaddy link" href="fr/communaute"  >
+						<span>Communauté</span>
+		</a>	
+				<div class="drop-wrap columns-1"><div class="png drop1"><div class="drop2"><div class="drop3"></div></div></div>
+	<ul class="png columns-1">
+					
+			<li class="item116  c0 coltop" >
+			<a class="link" href="http://wiki.softwarefreedomday.org/"  >
+						<span>SFD Wiki</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item117  c0" >
+			<a class="link" href="fr/communaute/listes-de-diffusion"  >
+						<span>Listes de diffusion</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item118  c0" >
+			<a class="link" href="fr/communaute/discussions-irc"  >
+						<span>Discussions IRC</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item150  c0" >
+			<a class="link" href="fr/communaute/planete-sfd"  >
+						<span>La planète SFD</span>
+		</a>	
+			
+</li>	
+			</ul>
+	</div>
+		
+</li>	
+			<li class="item120 parent " >
+			<a class="topdaddy link" href="fr/sfd"  >
+						<span>A propos de SFD</span>
+		</a>	
+				<div class="drop-wrap columns-1"><div class="png drop1"><div class="drop2"><div class="drop3"></div></div></div>
+	<ul class="png columns-1">
+					
+			<li class="item121  c0" >
+			<a class="link" href="fr/sfd/liberte-logicielle"  >
+						<span>La liberté logicielle</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item122  c0" >
+			<a class="link" href="fr/sfd/dossier-de-presse"  >
+						<span>Dossier de presse</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item156  c0" >
+			<a class="link" href="fr/sfd/interviews"  >
+						<span>Interviews</span>
+		</a>	
+			
+</li>	
+			</ul>
+	</div>
+		
+</li>	
+			<li class="item123 " >
+			<a class="topdaddy link" href="fr/nous-contacter"  >
+						<span>Nous contacter</span>
+		</a>	
+			
+</li>	
+	</ul>
+								<div class="clr"></div>
+				</div></div></div>
+								<!--End Horizontal Menu-->
+
+		<!--Begin Scroller-->
+		<div id="vertical-sort"><div class="scrolladjust">
+		<div class="show-tm"><div class="show-tl"></div><div class="show-tr"></div></div>
+		<div class="show-m"><div class="show-l"><div class="show-r">
+			<div class="scroller-module">
+				<div class="scroller-bottom">
+	<div class="scroller-bottom1">
+		<div class="scroller-bottom2">
+			<div class="scroller-top">
+				<div class="scroller-top1">
+					<div class="scroller-top2">
+						<!-- Content START -->
+							<div id="rokintroscroller" class="">
+								
+
+
+                <div class="scroller-item">
+				
+            <div class="scroll-img"><a href="http://www.ubuntu.com/" target="_blank"><img class="scroll-img2" src="http://www.softwarefreedomday.org/images/stories/sponsorlist/canonical.png" border="0" alt="Canonical" /></a></div> 
+
+                   
+        </div>
+            <div class="scroller-item">
+				
+            <div class="scroll-img"><a href="http://code.google.com/" target="_blank"><img class="scroll-img2" src="http://www.softwarefreedomday.org/images/stories/sponsorlist/google.png" border="0" alt="Google" /></a></div> 
+
+                   
+        </div>
+            <div class="scroller-item">
+				
+            <div class="scroll-img"><a href="http://www.linode.com/" target="_blank"><img class="scroll-img2" src="http://www.softwarefreedomday.org/images/stories/sponsorlist/linode.png" border="0" alt="Linode" /></a></div> 
+
+                   
+        </div>
+            <div class="scroller-item">
+				
+            <div class="scroll-img"><a href="http://www.fsf.org/" target="_blank"><img class="scroll-img2" src="http://www.softwarefreedomday.org/images/stories/sponsorlist/fsf.png" border="0" alt="FSF" /></a></div> 
+
+                   
+        </div>
+            <div class="scroller-item">
+				
+            <div class="scroll-img"><a href="http://www.lemote.com/en/" target="_blank"><img class="scroll-img2" src="http://www.softwarefreedomday.org/images/stories/sponsorlist/lemote-logo.png" border="0" alt="Lemote!" /></a></div> 
+
+                   
+        </div>
+            <div class="scroller-item">
+				
+            <div class="scroll-img"><a href="http://www.linux-magazine.com/" target="_blank"><img class="scroll-img2" src="http://www.softwarefreedomday.org/images/stories/sponsorlist/linuxmagazine.png" border="0" alt="Linux Magazine" /></a></div> 
+
+                   
+        </div>
+            <div class="scroller-item">
+				
+            <div class="scroll-img"><a href="http://www.ubuntu-user.com/" target="_blank"><img class="scroll-img2" src="http://www.softwarefreedomday.org/images/stories/sponsorlist/ubuntuuser.png" border="0" alt="Ubuntu User" /></a></div> 
+
+                   
+        </div>
+            <div class="scroller-item">
+				
+            <div class="scroll-img"><a href="http://www.linuxjournal.com/" target="_blank"><img class="scroll-img2" src="http://www.softwarefreedomday.org/images/stories/sponsorlist/linuxjournal.png" border="0" alt="Linux Journal" /></a></div> 
+
+                   
+        </div>
+            <div class="scroller-item">
+				
+            <div class="scroll-img"><a href="http://www.admin-magazine.com/" target="_blank"><img class="scroll-img2" src="http://www.softwarefreedomday.org/images/stories/sponsorlist/admin.png" border="0" alt="Admin Network & Security Magazine" /></a>
+</div> 
+
+                   
+        </div>
+            <div class="scroller-item">
+				
+            <div class="scroll-img"><a href="http://www.smart-developer.com/" target="_blank"><img class="scroll-img2" src="http://www.softwarefreedomday.org/images/stories/sponsorlist/smart.png" border="0" alt="Smart Developer" /></a></div> 
+
+                   
+        </div>
+            <div class="scroller-item">
+				
+            <div class="scroll-img"><a href="http://www.creativecommons.org/" target="_blank"><img class="scroll-img2" src="http://www.softwarefreedomday.org/images/stories/sponsorlist/creativecommons.png" border="0" alt="Creative Commons" /></a></div> 
+
+                   
+        </div>
+            <div class="scroller-item">
+				
+            <div class="scroll-img"><a href="http://www.freebsd.org//" target="_blank"><img class="scroll-img2" src="http://www.softwarefreedomday.org/images/stories/sponsorlist/freebsd-logo.png" border="0" alt="FreeBSD" /></a></div> 
+
+                   
+        </div>
+            <div class="scroller-item">
+				
+            <div class="scroll-img"><a href="http://www.joomla.org/" target="_blank"><img class="scroll-img2" src="http://www.softwarefreedomday.org/images/stories/sponsorlist/joomla-logo.png" border="0" alt="Joomla!" /></a></div> 
+
+                   
+        </div>
+            <div class="scroller-item">
+				
+            <div class="scroll-img"><a href="http://www.openclipart.org/" target="_blank"><img class="scroll-img2" src="http://www.softwarefreedomday.org/images/stories/sponsorlist/ocl.png" border="0" alt="Open Clipart Library" /></a></div> 
+
+                   
+        </div>
+            <div class="scroller-item">
+				
+            <div class="scroll-img"><a href="http://www.fsfe.org/" target="_blank"><img class="scroll-img2" src="http://www.softwarefreedomday.org/images/stories/sponsorlist/fsfe.png" border="0" alt="FSFE" /></a></div> 
+
+                   
+        </div>
+    							<!-- Content END -->		
+
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+			</div>
+			<div class="clr"></div>
+		</div></div></div>
+		<div class="show-bm"><div class="show-bl"></div><div class="show-br"></div></div>
+</div></div>
+				<!--End Scroller-->
+
+				<div id="vertical-sort">
+				<div id="section-row3" class="section-row"><div id="section-row3-inner">
+			<div id="main-body-surround" class="spacer"><div id="main-body" class="spacing">
+						<div class="module-light"><div class="body-surround-top"><div class="body-surround-top2"><div class="body-surround-top3"></div></div></div>
+	<div class="body-surround"><div class="body-surround2"><div class="body-surround3">
+							<div id="main-content"><div id="maincol">
+			  						<div class="maincol-padding"><div id="breadcrumbs"><div id="breadcrumbs2"><div id="breadcrumbs3"><a href="index.html" id="breadcrumbs-home"></a><span class="breadcrumbs pathway">
+<span class="no-link">Partenaires</span></span>
+</div></div></div>
+			  							<div class="bodycontent">
+											<div class="mainbody-surround">
+			   									<div id="maincontent-block">
+													<div class="">
+	<div id="page" class="full-article">
+		
+				<div class="article-rel-wrapper">
+				 	</div>
+
+		
+		
+		
+		
+		
+		
+		<h1>Sponsorship of Software Freedom Day</h1>
+<p align="justify">Software Freedom Day is a global event with over 100 countries participating. By supporting Software Freedom Day, not only are you helping get the word out about why sustainable and trustworthy systems are important, but you are aligning your company with others involved in the rapidly growing FOSS market. We are interested in both direct sponsorship and in-kind donations, so please contact us <a href="en/contact-us">here</a>.</p>
+<h2 class="contentheading">Sponsors:</h2>
+<table border="0" cellspacing="8" width="100%">
+<tbody>
+<tr>
+<td width="25%" align="left" valign="top"><img src="http://www.softwarefreedomday.org/images/stories/supporters/canonical_ubuntu_logo.png" border="0" alt="Canonical" /></td>
+<td width="75%" align="left" valign="top"><a href="http://www.canonical.com/" target="_blank">Canonical</a> have supported Software Freedom Day from the first year and continue to support the aims and vision of Software Freedom Day. A big thank you to <a href="http://www.canonical.com/" target="_blank">Canonical</a> for its long term support!</td>
+</tr>
+<tr>
+<td height="10"></td>
+<td height="10"></td>
+</tr>
+<tr>
+<td width="25%" align="left" valign="top"><img src="http://www.softwarefreedomday.org/images/stories/supporters/google_logo.png" border="0" alt="Google" /></td>
+<td width="75%" align="left" valign="top"><a href="http://code.google.com/" target="_blank">Google</a> generously supported Software Freedom Day for the first time in 2007, and we're pleased to have them on board in 2011 again.</td>
+</tr>
+<tr>
+<td height="10"></td>
+<td height="10"></td>
+</tr>
+<tr>
+<td width="25%" align="left" valign="top"><img src="http://www.softwarefreedomday.org/images/stories/supporters/linode_logo.png" border="0" alt="Linode" /></td>
+<td width="75%" align="left" valign="top"><a href="http://www.linode.com" target="_blank">Linode</a> has been supporting Software Freedom Day with infrastructure support since 2008. Thanks <a href="http://www.linode.com" target="_blank">Linode</a>!</td>
+</tr>
+<tr>
+<td height="10"></td>
+<td height="10"></td>
+</tr>
+<tr>
+<td width="25%" align="left" valign="top"><img src="http://www.softwarefreedomday.org/images/stories/supporters/fsf_logo.png" border="0" alt="The Free Software Foundation" /></td>
+<td width="75%" align="left" valign="top">The FSF has helped with shipping swags to the US teams in the early days and now sponsors the Best Event Competition since 2010. We also collaborate on some of the materials we distribute and regularly discuss about improving our message. Many thanks to <a href="http://www.fsf.org/" target="_blank"> the Free Software Foundation </a> for their continuous support of Software Freedom Day!</td>
+</tr>
+<tr>
+<td height="10"></td>
+<td height="10"></td>
+</tr>
+<tr>
+<td width="25%" align="left" valign="top"><img src="http://www.softwarefreedomday.org/images/stories/supporters/lemote.png" border="0" alt="Linode" /></td>
+<td width="75%" align="left" valign="top"><a href="http://www.lemote.com/en" target="_blank">Lemote</a> sponsored three YeeLoong Netbooks (The Fee Software Portable Computers) for SFD Competition prizes in 2011. welcome on board and thanks <a href="http://www.lemote.com/en" target="_blank">Lemote</a> for their support!</td>
+</tr>
+<tr>
+<td height="10"></td>
+<td height="10"></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 class="contentheading">Media Sponsors:</h2>
+<table border="0" cellspacing="8" width="100%">
+<tbody>
+<tr>
+<td width="25%" align="left" valign="top"><img src="http://www.softwarefreedomday.org/images/stories/supporters/linux_magazine_logo.png" border="0" alt="Linux Magazine" /></td>
+<td width="75%" align="left" valign="top"><a href="http://www.linux-magazine.com/" target="_blank">Linux Magazine</a> came on as Software Freedom Day's first media sponsor in 2007 and we are very happy to have them again to support us since 2010</td>
+</tr>
+<tr>
+<td height="10"></td>
+<td height="10"></td>
+</tr>
+<tr>
+<td width="25%" align="left" valign="top"><img src="http://www.softwarefreedomday.org/images/stories/supporters/ubuntu_user_logo.png" border="0" alt="Ubuntu User" /></td>
+<td width="75%" align="left" valign="top"><a href="http://www.ubuntu-user.com/" target="_blank">Ubuntu User Magazine</a> has joined Software Freedom Day as media sponsor since 2010 to help us to spread the word out! Thank you very much!<br /></td>
+</tr>
+<tr>
+<td height="10"></td>
+<td height="10"></td>
+</tr>
+<tr>
+<td width="25%" align="left" valign="top"><img src="http://www.softwarefreedomday.org/images/stories/supporters/admin-magazine.png" border="0" alt="Ubuntu User" /></td>
+<td width="75%" align="left" valign="top"><a href="http://www.admin-magazine.com" target="_blank">Admin Network &amp; Security Magazine</a> just joined Software Freedom Day as media sponsor in 2011 to help us to spread the word out! Welcome aboard!</td>
+</tr>
+<tr>
+<td height="10"></td>
+<td height="10"></td>
+</tr>
+<tr>
+<td width="25%" align="left" valign="top"><img src="http://www.softwarefreedomday.org/images/stories/supporters/smart-developer.png" border="0" alt="Ubuntu User" /></td>
+<td width="75%" align="left" valign="top"><a href="http://www.smart-developer.com/" target="_blank">Smart Developer Magazine</a> just joined Software Freedom Day as media sponsor since 2011 to help us to spread the word out! Welcome aboard!</td>
+</tr>
+<tr>
+<td height="10"></td>
+<td height="10"></td>
+</tr>
+<tr>
+<td width="25%" align="left" valign="top"><img src="http://www.softwarefreedomday.org/images/stories/supporters/linux-journal.png" border="0" alt="Ubuntu User" /></td>
+<td width="75%" align="left" valign="top"><a href="http://www.linuxjournal.com/" target="_blank">Linux Journal</a> just joined Software Freedom Day as media sponsor since 2011 to help us to spread the word out! Welcome aboard!</td>
+</tr>
+<tr>
+<td height="10"></td>
+<td height="10"></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 class="contentheading">Supporting Organizations:</h2>
+<table border="0" cellspacing="8" width="100%">
+<tbody>
+<tr>
+<td width="25%" align="left" valign="top"><img src="http://www.softwarefreedomday.org/images/stories/supporters/creativecommons.png" border="0" alt="Creative Commons" /></td>
+<td width="75%" align="left" valign="top"><a href="http://www.creativecommons.org/" target="_blank" >Creative Commons</a> has been an early supporter of Software Freedom Day regularly reminding and encouraging its community to participe. We only formally got in touch early 2012 to discuss about <a href="http://www.culturefreedomday.org" target="_blank">Culture Freedom Day</a> and we are expecting to see more joined initiative in the near future. So many thanks to <a href="http://www.creativecommons.org/" target="_blank" >Creative Commons</a> for the early and continuous support of Software Freedom Day!</td>
+</tr>
+<tr>
+<td height="10"></td>
+<td height="10"></td>
+</tr>
+<tr>
+<td width="25%" align="left" valign="top"><img src="http://www.softwarefreedomday.org/images/stories/supporters/freebsd.png" border="0" alt="The FreeBSD Foundation" /></td>
+<td width="75%" align="left" valign="top">The<a href="http://www.freebsd.org/" target="_blank" > FreeBSD Foundation</a> joined us as a partner in 2011, many thanks to <a href="http://www.freebsd.org/" target="_blank">the FreeBSD Foundation</a> for their encouragement and support of Software Freedom Day!</td>
+</tr>
+<tr>
+<td height="10"></td>
+<td height="10"></td>
+</tr>
+<tr>
+<td width="25%" align="left" valign="top"><img src="http://www.softwarefreedomday.org/images/stories/supporters/joomla-logo-150px.png" border="0" alt="Joomla!" /></td>
+<td width="75%" align="left" valign="top"><a href="http://www.joomla.org/" target="_blank" >Joomla! </a>joined us as a partner in 2011, many thanks to <a href="http://www.joomla.org/" target="_blank">Joomla! </a> for their encouragement and support of Software Freedom Day!</td>
+</tr>
+<tr>
+<td height="10"></td>
+<td height="10"></td>
+</tr>
+<tr>
+<td width="25%" align="left" valign="top"><img src="http://www.softwarefreedomday.org/images/stories/supporters/ocl.png" border="0" alt="Open Clipart Library" /></td>
+<td width="75%" align="left" valign="top">Similarly to <a href="http://www.creativecommons.org/" target="_blank" >Creative Commons</a> we only got in touch with <a href="http://www.openclipart.org/" target="_blank" >The Open Clipart Library</a> for <a href="http://www.culturefreedomday.org" target="_blank">Culture Freedom Day</a> early 2012. We have in fact been in touch with the project leaders for quite some time through the <strong>Beijing GNU/Linux User Group</strong> and never really thought of using our joint resources to promote Software Freedom together. We are very excited that we finally came to start the discussion and hope to see great things coming out of this partnership.</td>
+</tr>
+<tr>
+<td height="10"></td>
+<td height="10"></td>
+</tr>
+
+<tr>
+<td width="25%" align="left" valign="top"><img src="http://www.softwarefreedomday.org/images/stories/supporters/fsfe_logo.png" border="0" alt="FSFE" /></td>
+<td width="75%" align="left" valign="top">Many thanks to <a href="http://www.fsfe.org/" target="_blank">the Free Software Foundation Europe </a>for their encouragement and support of Software Freedom Day in Europe!</td>
+</tr>
+</tbody>
+</table>
+			</div>
+</div>
+			   									</div>
+												<div class="mainbody-tl"></div><div class="mainbody-tr"></div><div class="mainbody-bl"></div><div class="mainbody-br"></div>
+											</div>
+			  							</div>
+			  						</div>
+			  					</div>    
+							</div>
+									<div id="leftcol">
+					                	<div id="leftcol-bg">	
+		
+	<div class=" left:111">
+		<div class="side-mod">
+						<div class="module-header"><div class="module-header2"><div class="module-header3"><h3 class="module-title">DFF Menu</h3></div></div></div>
+						<div class="module">
+				<ul class="menu"><li class="parent  item134"><a href="fr/sfi" class="topdaddy"><span>A propos de SFI</span></a><ul><li class="item135"><a href="fr/sfi/qui-sommes-nous"><span>Qui sommes-nous?</span></a></li><li class="item136"><a href="fr/sfi/conseil-dadministration"><span>Conseil d'administration</span></a></li><li class="item137"><a href="fr/sfi/dou-est-venue-lidee-de-sfi"><span>D'où est venue l'idée de SFI?</span></a></li></ul></li></ul>			</div>
+		</div>
+	</div>
+		
+		
+	<div class=" left:116">
+		<div class="side-mod">
+						<div class="module-header"><div class="module-header2"><div class="module-header3"><h3 class="module-title">DFF Blog</h3></div></div></div>
+						<div class="module">
+				
+<ul class="latestnews">
+			<li class="latestnews">
+			<a href="fr/blog/212-sfd-2013-registration-is-on" class="latestnews">
+			SFD 2013 Registration is on</a>
+		</li>
+			<li class="latestnews">
+			<a href="fr/blog/206-wiki-under-maintenance" class="latestnews">
+			Wiki under maintenance</a>
+		</li>
+			<li class="latestnews">
+			<a href="fr/blog/198-sfd-countdown-in-15-languages" class="latestnews">
+			SFD Countdown in 15 Languages</a>
+		</li>
+			<li class="latestnews">
+			<a href="fr/blog/195-2012-sfd-team-packs-shipped" class="latestnews">
+			2012 SFD Team packs shipped</a>
+		</li>
+			<li class="latestnews">
+			<a href="fr/blog/194-100-teams-registered-" class="latestnews">
+			100 teams registered! </a>
+		</li>
+			</ul>
+			</div>
+		</div>
+	</div>
+		
+		
+	<div class=" left:104">
+		<div class="side-mod">
+						<div class="module-header"><div class="module-header2"><div class="module-header3"><h3 class="module-title">Latest SFD-discuss posts</h3></div></div></div>
+						<div class="module">
+				<!-- slick rss http://joomla.daveslist.co.nz -->
+<div class="slick-rss-container" style="direction: ltr; text-align: left">
+<!-- <div class="latest_posts"> -->
+
+        <div class="latest_posts"><div class="latest_posts_subject">
+        <a href="http://mail.sf-day.org/pipermail/sfd-discuss/2013-September/002684.html" title=" [SFD-discuss]...:: Julian H. Stacey: [SFD-discuss] .iso to USB was Re: OpenDisc is avaiable ?:  &lt;br /&gt; [...] &lt;br /&gt; A few FreeBSD release have extended lifetimes, inc.  the last minor release upgrade number at the end of a previous major release number series, eg ,..." class="slickTip" target="_blank" >[SFD-discuss] .iso to USB was Re: OpenDisc is avaiable ?</a><div class="newsfeed_item_desc"></div></div></div>
+        <div class="latest_posts"><div class="latest_posts_subject">
+        <a href="http://mail.sf-day.org/pipermail/sfd-discuss/2013-September/002683.html" title=" [SFD-discuss]...::Ingeniero Forigua: [SFD-discuss] OpenDisc is avaiable ?: I recomend CDLibre &lt;br /&gt; http://www.cdlibre.org/descargar/index.html &lt;br /&gt; regards &lt;br /&gt; 2013/9/4 Severus &amp;lt;huynhok.uit at vnoss.org&amp;gt; &lt;br /&gt; [...] &lt;br /&gt; ========= Miembro Bogota Mesh ========== Dice el manifiesto: &lt;br /&gt; Utilizar Software Libre para la implementaci&amp;oacute;n de los diferentes componentes de la red. [...]" class="slickTip" target="_blank" >[SFD-discuss] OpenDisc is avaiable ?</a><div class="newsfeed_item_desc"></div></div></div>
+        <div class="latest_posts"><div class="latest_posts_subject">
+        <a href="http://mail.sf-day.org/pipermail/sfd-discuss/2013-September/002682.html" title=" [SFD-discuss]...:: Frederic Muller - DFF: [SFD-discuss] .iso to USB was Re: OpenDisc is avaiable ?:  [...] &lt;br /&gt; Big topic I agree, which will probably raise a lot of debates ;-). While I don&amp;#39;t have any preferred choice I don&amp;#39;t want an OS that..." class="slickTip" target="_blank" >[SFD-discuss] .iso to USB was Re: OpenDisc is avaiable ?</a><div class="newsfeed_item_desc"></div></div></div>
+        <div class="latest_posts"><div class="latest_posts_subject">
+        <a href="http://mail.sf-day.org/pipermail/sfd-discuss/2013-September/002681.html" title=" [SFD-discuss]...:: Julian H. Stacey: [SFD-discuss] .iso to USB was Re: OpenDisc is avaiable ?:  &lt;br /&gt; [...] &lt;br /&gt; I didnt know what that was so for others: 	http://www.freedomtoaster.org 	https://en.wikipedia.org/wiki/Freedom_Toaster &lt;br /&gt; [...] &lt;br /&gt; Too big a topic to solve in time for SFD this year. One would need to..." class="slickTip" target="_blank" >[SFD-discuss] .iso to USB was Re: OpenDisc is avaiable ?</a><div class="newsfeed_item_desc"></div></div></div>
+        <div class="latest_posts"><div class="latest_posts_subject">
+        <a href="http://mail.sf-day.org/pipermail/sfd-discuss/2013-September/002680.html" title=" [SFD-discuss]...:: Severus: [SFD-discuss] OpenDisc is avaiable ?:  [...] &lt;br /&gt; I forward email to my team, and share any idea we have with other. &lt;br /&gt; We can customize anything without reburning, I think it&amp;#39;s great idea but we must have sponsor for fee of usb..." class="slickTip" target="_blank" >[SFD-discuss] OpenDisc is avaiable ?</a><div class="newsfeed_item_desc"></div></div></div>
+        <div class="latest_posts"><div class="latest_posts_subject">
+        <a href="http://mail.sf-day.org/pipermail/sfd-discuss/2013-September/002679.html" title=" [SFD-discuss]...:: Frederic Muller - DFF: [SFD-discuss] OpenDisc is avaiable ?:  [...] &lt;br /&gt; Likewise we have asked Canonical (somewhat involved in the Freedom Toaster) whether they were aware of a USB burning Kiosk able to burn ISO files and add other files to the same..." class="slickTip" target="_blank" >[SFD-discuss] OpenDisc is avaiable ?</a><div class="newsfeed_item_desc"></div></div></div>
+        <div class="latest_posts"><div class="latest_posts_subject">
+        <a href="http://mail.sf-day.org/pipermail/sfd-discuss/2013-September/002678.html" title=" [SFD-discuss]...::Severus: [SFD-discuss] OpenDisc is avaiable ?:  [...] &lt;br /&gt; Thank Frederic so much, &lt;br /&gt; I will discuss this idea with my team &lt;br /&gt; Kind regards, Severus" class="slickTip" target="_blank" >[SFD-discuss] OpenDisc is avaiable ?</a><div class="newsfeed_item_desc"></div></div></div>
+        <div class="latest_posts"><div class="latest_posts_subject">
+        <a href="http://mail.sf-day.org/pipermail/sfd-discuss/2013-September/002677.html" title=" [SFD-discuss]...:: Frederic Muller - DFF: [SFD-discuss] OpenDisc is avaiable ?: Hi again! &lt;br /&gt; Just received a prompt confirmation that the OpenDisc will release their 2013 edition within the next 2 days. We also exchange ideas on the status of CD/DVD media disks and what..." class="slickTip" target="_blank" >[SFD-discuss] OpenDisc is avaiable ?</a><div class="newsfeed_item_desc"></div></div></div>
+        <div class="latest_posts"><div class="latest_posts_subject">
+        <a href="http://mail.sf-day.org/pipermail/sfd-discuss/2013-September/002676.html" title=" [SFD-discuss]...:: Frederic Muller - DFF: [SFD-discuss] OpenDisc is avaiable ?:  [...] &lt;br /&gt; Just an official response to this message as we should have made an announcement I guess. We feel that CD/DVD are devices from the past, most computers you buy nowadays are shipped..." class="slickTip" target="_blank" >[SFD-discuss] OpenDisc is avaiable ?</a><div class="newsfeed_item_desc"></div></div></div>
+        <div class="latest_posts"><div class="latest_posts_subject">
+        <a href="http://mail.sf-day.org/pipermail/sfd-discuss/2013-September/002675.html" title=" [SFD-discuss]...:: Steve Rainwater: [SFD-discuss] Goodies arrived in Germany^W UK: Our SFD stuff arrived last Friday here in Dallas, TX. Looks good. I&amp;#39;ve also received our Creative Commons and FSF goodies. Still nothing from the EFF this year - has anyone else requested and..." class="slickTip" target="_blank" >[SFD-discuss] Goodies arrived in Germany^W UK</a><div class="newsfeed_item_desc"></div></div></div><!-- </div> -->
+</div>
+<!-- /slick-rss -->			</div>
+		</div>
+	</div>
+		
+		
+	<div class=" left:133">
+		<div class="side-mod">
+						<div class="module-header"><div class="module-header2"><div class="module-header3"><h3 class="module-title">Latest Marketing posts</h3></div></div></div>
+						<div class="module">
+				<!-- slick rss http://joomla.daveslist.co.nz -->
+<div class="slick-rss-container" style="direction: ltr; text-align: left">
+<!-- <div class="latest_posts"> -->
+
+        <div class="latest_posts"><div class="latest_posts_subject">
+        <a href="http://mail.sf-day.org/pipermail/marketing/2013-July/000520.html" title=" ISO...:: Diego Fernando Marin: ISO files for SFD: i&amp;#39;m ready to help you out what is the time frame, deadline? everybody please send your suggestions quickly, to start making the ISOs El jul 3, 2013 12:12 a.m., &amp;quot;Frederic Muller - DFF&amp;quot; &amp;lt; fred at digitalfreedomfoundation.org&amp;gt;..." class="slickTip" target="_blank" >ISO files for SFD</a><div class="newsfeed_item_desc"></div></div></div>
+        <div class="latest_posts"><div class="latest_posts_subject">
+        <a href="http://mail.sf-day.org/pipermail/marketing/2013-July/000519.html" title=" ISO...:: bfkusi at gmail.com: ISO files for SFD: Am suggesting that goodies like pens with sfd embossed on it be added to this year&amp;#39;s goodies Sent from my BlackBerry&amp;reg; smartphone from Airtel Ghana Hi list! &lt;br /&gt; SFD registration has opened for around 2 weeks..." class="slickTip" target="_blank" >ISO files for SFD</a><div class="newsfeed_item_desc"></div></div></div>
+        <div class="latest_posts"><div class="latest_posts_subject">
+        <a href="http://mail.sf-day.org/pipermail/marketing/2013-July/000518.html" title=" ISO...:: Frederic Muller - DFF: ISO files for SFD: Hi list! &lt;br /&gt; SFD registration has opened for around 2 weeks now and we got 103 teams registered! &lt;br /&gt; We are preparing for the goodies at the moment, and hoping to ship everything by end of..." class="slickTip" target="_blank" >ISO files for SFD</a><div class="newsfeed_item_desc"></div></div></div><!-- </div> -->
+</div>
+<!-- /slick-rss -->			</div>
+		</div>
+	</div>
+	
+					                	</div>
+									</div></div></div></div><div class="body-surround-bottom"><div class="body-surround-bottom2"><div class="body-surround-bottom3"></div></div></div>
+					</div>
+					
+				</div></div></div></div>				</div>
+			</div>
+			<!--Begin Bottom Section-->
+			<div id="bottom-bg">
+				<div class="wrapper">
+										<div id="bottom-menu"><div id="bottom-menu2"><div id="bottom-menu3"><div id="bottom-menu-overlay">
+								<div class="moduletable">
+					<ul class="menu-nav"><li class="item28"><a href="fr/component/content/index.html"><span>A propos de SFI</span></a></li><li id="current" class="active item125"><a href="fr/partenaires"><span>Partenaires</span></a></li><li class="item124"><a href="fr/blog.1"><span>Blog</span></a></li><li class="item133"><a href="fr/nous-contacter"><span>Nous contacter</span></a></li></ul>		</div>
+	
+					</div></div></div></div>
+															<div id="top-button"><a href="partenaires#" id="top-scroll" class="top-button-desc">Back to Top</a></div>
+									</div>
+			</div>
+						<div id="bottom">
+				<div class="wrapper">
+										<div id="bottommodules" class="spacer w33">
+												<div class="block first">
+								<div class=" bottom:48">
+		<div class="moduletable">
+						<ul>
+<li><a href="http://wiki.softwarefreedomday.org/RecentChanges?action=newaccount">SFD Wiki Account Setup</a></li>
+<li><a href="http://wiki.softwarefreedomday.org/CreateYourTeampage">How to Create your Wiki Team Page</a></li>
+<li><a href="http://wiki.softwarefreedomday.org/StartGuide">Getting Started Guide</a></li>
+<li><a href="cgi-bin/register.py">Team Registration Page</a></li>
+<li><a href="map/index.php?year=2013">2013 Events Map</a></li>
+<li><a href="http://wiki.softwarefreedomday.org/Resources">Event Preparation Resources</a></li>
+</ul>		</div>
+	</div>
+	
+						</div>
+																		<div class="block middle">
+								<div class=" bottom2:21">
+		<div class="moduletable">
+						<h3>Who's Online</h3>
+						Nous avons&nbsp;140 invités&nbsp;en ligne		</div>
+	</div>
+	
+						</div>
+																		<div class="block last">
+								<div class=" bottom3:50">
+		<div class="moduletable">
+						<div style="text-align: justify;"><strong>Digital Freedom International</strong> (Aka SFI) is the non-profit organization at the origin of <strong>SFD </strong>and<strong> CFD</strong>. <strong>DFI</strong> handles sponsorship contracts, official team registrations, sending out schwags to teams, the annual <strong>Best Event Competition</strong> and many other things. <strong>Hundreds of teams around the world</strong> manage the local celebration and help to send out a global message. So do drop by and attend an <strong>SFD and CFD event</strong> nearby!</div>		</div>
+	</div>
+	
+						</div>
+											</div>
+															<div class="footer-mod">
+						
+					</div>
+														</div>
+			</div>
+						<!--End Bottom Section-->
+		</div></div>
+						<div id="login-module">
+								<div class="moduletable">
+					<h3>Login Form</h3>
+					
+<div class="main-login-form">
+	<form action="fr/partenaires" method="post" name="login" class="form-login">
+				<div class="username-block">
+			<div class="input-field-l"><input name="username" type="text" class="inputbox" value="Identifiant" alt="Identifiant" onblur="if(this.value=='') this.value='Identifiant';" onfocus="if(this.value=='Identifiant') this.value='';" /></div>
+		</div>
+		<div class="password-block">
+			<div class="input-field-l"><input type="password" name="passwd" class="inputbox" alt="Mot de passe" /></div>
+		</div>
+		<div class="login-extras">
+			<div class="remember-me">
+			<input type="checkbox" name="remember" class="checkbox" value="yes" alt="Se souvenir de moi" />
+			<label class="remember">
+				Se souvenir de moi			</label>	
+			</div>
+			<div style="overflow: hidden;">
+			<div class="readon-wrap1"><div class="readon1-l"></div><a class="readon-main"><span class="readon1-m"><span class="readon1-r"><input type="submit" name="Submit" class="button" value="Connexion" /></span></span></a></div></div>
+			<div class="clr"></div>		
+			<div class="login-links">
+			<p>
+				<a href="fr/component/user/reset#content">
+					Mot de passe oublié ?</a>
+			</p>
+			<p>
+				<a href="fr/component/user/remind#content">
+					Identifiant oublié ?</a>
+			</p>
+			</div>
+						<input type="hidden" name="option" value="com_user" />
+			<input type="hidden" name="task" value="login" />
+			<input type="hidden" name="return" value="L3BhcnRlbmFpcmVzI2NvbnRlbnQ=" />
+			<input type="hidden" name="634677ccedd81615e2db063b2836bb91" value="1" />		</div>
+	</form>
+</div>
+		</div>
+	
+					</div>
+		<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17594484-1']);
+  _gaq.push(['_setDomainName', 'softwarefreedomday.org']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+	</body>
+</html>

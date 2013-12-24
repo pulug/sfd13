@@ -1,0 +1,861 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" >
+	<head>
+		  <base href="" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="SFD,SFI, Software Freedom Day, Software Freedom International, Free Software, FOSS" />
+  <meta name="description" content="Software Freedom Day - The worldwide celebration of Free Software!" />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Software Freedom Day - Forgot your Username?</title>
+  <link href="../../favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <link rel="stylesheet" href="http://www.softwarefreedomday.org/plugins/system/rokbox/themes/light/rokbox-style.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.softwarefreedomday.org/templates/rt_affinity_j15/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.softwarefreedomday.org/templates/rt_affinity_j15/css/style1.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.softwarefreedomday.org/templates/rt_affinity_j15/css/typography.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.softwarefreedomday.org/templates/rt_affinity_j15/css/planet.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.softwarefreedomday.org/templates/rt_affinity_j15/css/generic.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.softwarefreedomday.org/templates/system/css/system.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.softwarefreedomday.org/templates/system/css/general.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.softwarefreedomday.org/templates/rt_affinity_j15/css/rokmoomenu.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.softwarefreedomday.org/modules/mod_jflanguageselection/tmpl/mod_jflanguageselection.css" type="text/css" />
+  <style type="text/css">
+    <!--
+
+.osolCaptchaBlock{
+	width:100%;
+}
+.osolCaptchaBlock label{
+	
+}
+.osolCaptchaBlock table td{
+	
+	text-align:left;
+}
+
+	div.wrapper { margin: 0 auto; width: 979px;padding:0;}
+	#leftcol { width:210px;padding:0;float:left;}
+	#rightcol { width:0px;padding:0;}
+	#main-body { width:959px;padding:0;float:left;}
+	#maincol { width:704px;padding:0;float:right;}
+	#inset-block-left { width:0px;padding:0;}
+	#inset-block-right { width:0px;padding:0;}
+	#maincontent-block { margin-right:0px;margin-left:0px;}
+    -->
+  </style>
+  <script type="text/javascript" src="http://www.softwarefreedomday.org/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+  <script type="text/javascript" src="http://www.softwarefreedomday.org/media/system/js/validate.js"></script>
+  <script type="text/javascript" src="http://www.softwarefreedomday.org/plugins/system/rokbox/rokbox.js"></script>
+  <script type="text/javascript" src="http://www.softwarefreedomday.org/plugins/system/rokbox/themes/light/rokbox-config.js"></script>
+  <script type="text/javascript" src="http://www.softwarefreedomday.org/templates/rt_affinity_j15/js/rokfonts.js"></script>
+  <script type="text/javascript" src="http://www.softwarefreedomday.org/templates/rt_affinity_j15/js/rokdate.js"></script>
+  <script type="text/javascript" src="http://www.softwarefreedomday.org/templates/rt_affinity_j15/js/rokutils.js"></script>
+  <script type="text/javascript" src="http://www.softwarefreedomday.org/templates/rt_affinity_j15/js/rokutils.inputs.js"></script>
+  <script type="text/javascript" src="http://www.softwarefreedomday.org/templates/rt_affinity_j15/js/rokmoomenu.js"></script>
+  <script type="text/javascript" src="http://www.softwarefreedomday.org/templates/rt_affinity_j15/js/mootools.bgiframe.js"></script>
+  <script type="text/javascript" src="http://www.softwarefreedomday.org/modules/mod_rokintroscroller/rokintroscroller.js"></script>
+  <script type="text/javascript" src="http://www.softwarefreedomday.org/modules/mod_rokajaxsearch/js/rokajaxsearch.js"></script>
+  <script type="text/javascript">
+jQuery.noConflict();		window.addEvent('domready', function(){ var JTooltips = new Tips($$('.hasTip'), { maxTitleChars: 50, fixed: false}); });var rokboxPath = '/plugins/system/rokbox/';window.addEvent('domready', function() {
+		var modules = ['side-mod','module','moduletable'];
+		var header = ['h3'];
+		RokBuildSpans(modules, header);
+	});InputsExclusion.push('.content_vote','#login-module')window.addEvent('domready', function() {
+    	new Rokmoomenu($E('ul.menutop '), {
+    		bgiframe: false,
+    		delay: 500,
+    		verhor: true,
+    		animate: {
+    			props: ['height'],
+    			opts: {
+    				duration: 500,
+    				fps: 100,
+    				transition: Fx.Transitions.Quad.easeOut
+    			}
+    		},
+    		bg: {
+    			enabled: true,
+    			overEffect: {
+    				duration: 500,
+    				transition: Fx.Transitions.Sine.easeOut
+    			},
+    			outEffect: {
+    				duration: 600,
+    				transition: Fx.Transitions.Sine.easeOut
+    			}
+    		},
+    		submenus: {
+    			enabled: true,
+    			opacity: 0.9,
+    			overEffect: {
+    				duration: 50,
+    				transition: Fx.Transitions.Expo.easeOut
+    			},
+    			outEffect: {
+    				duration: 600,
+    				transition: Fx.Transitions.Sine.easeIn
+    			},
+    			offsets: {
+    				top: 3,
+    				right: 1,
+    				bottom: 0,
+    				left: 1
+    			}
+    		}
+    	});
+    });
+		window.addEvent('domready', function() {
+			var rnu = new RokIntroScroller('rokintroscroller', {
+				'arrows': {
+					'effect': true,
+					'opacity': 0.85
+				},
+				'scroll': {
+					'duration': 800,
+					'itemsPerClick': 6,
+					'transition': Fx.Transitions.Quad.easeOut
+				}
+			});
+		});window.addEvent((window.webkit) ? 'load' : 'domready', function() {
+				window.rokajaxsearch = new RokAjaxSearch({
+					'results': ' Results',
+					'close': '',
+					'websearch': 0,
+					'blogsearch': 0,
+					'imagesearch': 0,
+					'videosearch': 0,
+					'imagesize': 'MEDIUM',
+					'safesearch': 'MODERATE',
+					'search': ' Search...',
+					'readmore': ' Read more...',
+					'noresults': ' No results',
+					'advsearch': ' Advanced search',
+					'page': ' Page',
+					'page_of': ' of',
+					'searchlink': 'http://www.softwarefreedomday.org/index.php?option=com_search&amp;view=search&amp;tmpl=component',
+					'advsearchlink': 'http://www.softwarefreedomday.org/index.php?option=com_search&amp;view=search',
+					'uribase': 'http://www.softwarefreedomday.org/',
+					'limit': '10',
+					'perpage': '3',
+					'ordering': 'newest',
+					'phrase': 'any',
+					'hidedivs': '',
+					'includelink': 1,
+					'viewall': ' View all results',
+					'estimated': ' estimated',
+					'showestimated': 1,
+					'showpagination': 1,
+					'showcategory': 1,
+					'showreadmore': 1,
+					'showdescription': 1
+				});
+			});
+  </script>
+  <!--[if lte IE 6]>
+	   			<script type="text/javascript" src="/plugins/system/jbLibrary/includes/js/jquery.badBrowser.js"></script> 
+	   			 <![endif]-->
+
+			        <link href="http://www.softwarefreedomday.org/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+	</head>
+	<body id="ff-affinity" class="f-default style1 iehandle">
+		<!--Begin Top Bar-->
+				<div id="top-bar">
+			<div class="wrapper">
+				<div class="top-bar-padding">
+					<div class="topbar-strip">
+												<div class="date-block">
+							<span class="date1">Celebrate SFD 2013 on Saturday, September 21st</span>
+						</div>
+						                                                                                                <div class="flags-mod">
+                                                		<div class="moduletable">
+					<div id="jflanguageselection"><label for="jflanguageselection" class="jflanguageselection">Select</label>
+<select name="lang"  class="jflanguageselection" size="1" onchange="document.location.replace(this.value);">
+	<option value="http://www.softwarefreedomday.org/en/component/user/remind"   selected="selected" >English</option>
+	<option value="http://www.softwarefreedomday.org/de/component/user/remind"   >Deutsch</option>
+	<option value="http://www.softwarefreedomday.org/es/component/user/remind"   >Español</option>
+	<option value="http://www.softwarefreedomday.org/fr/component/user/remind"   >French</option>
+	<option value="http://www.softwarefreedomday.org/it/component/user/remind"   >Italian</option>
+	<option value="http://www.softwarefreedomday.org/pt/component/user/remind"   >Português</option>
+	<option value="http://www.softwarefreedomday.org/ru/component/user/remind"   >Russian</option>
+</select>
+</div><noscript><a href="../../en/component/user/remind"><span lang="en" xml:lang="en">English</span></a>&nbsp;<a href="../../de/component/user/remind"><span lang="de" xml:lang="de">Deutsch</span></a>&nbsp;<a href="../../es/component/user/remind"><span lang="es" xml:lang="es">Español</span></a>&nbsp;<a href="../../fr/component/user/remind"><span lang="fr" xml:lang="fr">French</span></a>&nbsp;<a href="../../it/component/user/remind"><span lang="it" xml:lang="it">Italian</span></a>&nbsp;<a href="../../pt/component/user/remind"><span lang="pt" xml:lang="pt">Português</span></a>&nbsp;<a href="../../ru/component/user/remind"><span lang="ru" xml:lang="ru">Russian</span></a>&nbsp;</noscript><!--JoomFish V2.1.7 (Dafad)-->
+<!-- &copy; 2003-2011 Think Network, released under the GPL. -->
+<!-- More information: at http://www.joomfish.net -->
+		</div>
+	
+                                                </div>
+                                                												<div id="accessibility">
+							<div id="buttons">
+								<a href="remind?fontstyle=f-larger" title="Increase Font Size" class="large"><span class="button png">&nbsp;</span></a>
+								<a href="remind?fontstyle=f-smaller" title="Decrease Font Size" class="small"><span class="button png">&nbsp;</span></a>
+							</div>
+							<div class="textsizer-desc">Text Size</div>
+						</div>
+																										<a href="remind#" id="lock-button" rel="rokbox[240 210][module=login-module]"><span id="lock-icon" class="login"></span><span>Login</span></a>
+																		</div>
+														</div>
+			</div>
+		</div>
+				<!--End Top Bar-->
+		<!--Begin Header-->
+		<div id="header">
+			<div id="header-overlay">
+				<div class="wrapper">
+										<a href="../../index.html" id="logo" class="png"></a>
+					                                                                                <div class="header-mod">
+                                        		<div class="moduletable">
+					<script type="text/javascript">
+//######################################################################################
+// Author: ricocheting.com
+// For: public release (freeware)
+// Date: 4/24/2003 (update: 6/26/2009)
+// Description: displays the amount of time until the "dateFuture" entered below.
+
+
+// NOTE: the month entered must be one less than current month. ie; 0=January, 11=December
+// NOTE: the hour is in 24 hour format. 0=12am, 15=3pm etc
+// format: dateFuture = new Date(year,month-1,day,hour,min,sec)
+// example: dateFuture = new Date(2003,03,26,14,15,00) = April 26, 2003 - 2:15:00 pm
+
+dateFuture = new Date(2013,8,21,9,0,0);
+
+// TESTING: comment out the line below to print out the "dateFuture" for testing purposes
+// document.write(dateFuture +"<br />");
+
+
+//###################################
+//nothing beyond this point
+function GetCount(){
+
+	dateNow = new Date();									//grab current date
+	amount = dateFuture.getTime() - dateNow.getTime();		//calc milliseconds between dates
+	delete dateNow;
+
+	// time is already past
+	if(amount < 0){
+		document.getElementById('countbox').innerHTML="Happy SFD!";
+		document.getElementById('tagline').innerHTML="";
+	}
+	// date is still good
+	else{
+		days=0;hours=0;mins=0;secs=0;out="";tagout="left until SFD 2013";
+
+		amount = Math.floor(amount/1000);//kill the "milliseconds" so just secs
+
+		days=Math.floor(amount/86400);//days
+		amount=amount%86400;
+
+		hours=Math.floor(amount/3600);//hours
+		amount=amount%3600;
+
+		mins=Math.floor(amount/60);//minutes
+		amount=amount%60;
+
+		secs=Math.floor(amount);//seconds
+
+            if(days != 0){out += days +" day"+((days!=1)?"s":"");}
+            else { 
+                if(days = 0 || hours != 0){out += hours +":";}
+                if(days = 0 || hours != 0 || mins != 0){out += mins +":";}
+                out += secs ;
+                }
+		document.getElementById('countbox').innerHTML=out;
+		document.getElementById('tagline').innerHTML=tagout;
+
+		setTimeout("GetCount()", 1000);
+	}
+}
+
+window.onload=GetCount;//call when everything has loaded
+
+</script>
+
+<div style="position:relative;text-align:center !important;width:100%;color:#FDA80B;display:block;line-height:normal;margin:10px;">
+<div id="countbox" style="font-size:20px;font-weight:bold;"></div>
+<div id="tagline"></div>
+</div>		</div>
+	
+                                        </div>
+                                        											<div class=" search:43">
+		<div id="searchmod-surround">
+			<div class="searchmod-top"></div>
+			<div class="searchmod-main">
+								<div id="searchmod">
+					<div class="module">
+						<form name="rokajaxsearch" id="rokajaxsearch" class="blue" action="../../index.html" method="get">
+<div class="rokajaxsearch">
+	<div class="roksearch-wrapper">
+		<input id="roksearch_search_str" name="searchword" type="text" class="inputbox" value=" Search..." />
+	</div>
+	<input type="hidden" name="searchphrase" value="any"/>
+	<input type="hidden" name="limit" value="13" />
+	<input type="hidden" name="ordering" value="newest" />
+	<input type="hidden" name="view" value="search" />
+	<input type="hidden" name="Itemid" value="99999999" />
+	<input type="hidden" name="option" value="com_search" />
+
+	
+	<div id="roksearch_results"></div>
+</div>
+<div id="rokajaxsearch_tmp" style="visibility:hidden;display:none;"></div>
+</form>					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+									</div>
+			</div>
+		</div>
+		<!--End Header-->
+		<div id="page-bg"><div id="page-bg2">
+			<div class="wrapper">
+				<!--Begin Horizontal Menu-->
+								<div id="horiz-menu" class="moomenu"><div id="horiz-menu2"><div id="horiz-menu3">
+									<ul class="menutop" >
+			<li class="item1 " >
+			<a class="topdaddy link" href="../../index.html"  >
+						<span>Home</span>
+		</a>	
+			
+</li>	
+			<li class="item110 parent " >
+			<a class="topdaddy link" href="../../en/participate"  >
+						<span>Participate</span>
+		</a>	
+				<div class="drop-wrap columns-1"><div class="png drop1"><div class="drop2"><div class="drop3"></div></div></div>
+	<ul class="png columns-1">
+					
+			<li class="item111  c0 coltop" >
+			<a class="link" href="http://wiki.softwarefreedomday.org/StartGuide"  >
+						<span>Start Guide</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item112  c0" >
+			<a class="link" href="../../cgi-bin/register.py"  >
+						<span>Register your Team!</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item113  c0" >
+			<a class="link" href="http://wiki.softwarefreedomday.org/CategoryTeam2013"  >
+						<span>Wiki team list</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item114  c0" >
+			<a class="link" href="../../map/index.php?year=2013"  >
+						<span>Look at SFD2013 map!</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item151  c0" >
+			<a class="link" href="../../en/participate/countdown"  >
+						<span>SFD Countdown</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item155  c1 coltop" >
+			<a class="link" href="http://wiki.softwarefreedomday.org/Promote"  >
+						<span>Promote SFD</span>
+		</a>	
+			
+</li>	
+			</ul>
+	</div>
+		
+</li>	
+			<li class="item126 parent " >
+			<a class="topdaddy link" href="../../map.1"  >
+						<span>Events Map</span>
+		</a>	
+				<div class="drop-wrap columns-1"><div class="png drop1"><div class="drop2"><div class="drop3"></div></div></div>
+	<ul class="png columns-1">
+					
+			<li class="item157  c0 coltop" >
+			<a class="link" href="../../map/index.php?year=2013"  >
+						<span>2013</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item153  c0" >
+			<a class="link" href="../../map/index.php?year=2012"  >
+						<span>2012</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item149  c0" >
+			<a class="link" href="../../map/index.php?year=2011"  >
+						<span>2011</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item127  c0" >
+			<a class="link" href="../../map/index.php?year=2010"  >
+						<span>2010</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item128  c0" >
+			<a class="link" href="../../map/index.php?year=2009"  >
+						<span>2009</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item129  c0" >
+			<a class="link" href="../../map/index.php?year=2008"  >
+						<span>2008</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item130  c0" >
+			<a class="link" href="../../map/index.php?year=2007"  >
+						<span>2007</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item131  c0" >
+			<a class="link" href="../../map/index.php?year=2006"  >
+						<span>2006</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item132  c0" >
+			<a class="link" href="../../map/index.php?year=2005"  >
+						<span>2005</span>
+		</a>	
+			
+</li>	
+			</ul>
+	</div>
+		
+</li>	
+			<li class="item139 parent " >
+			<a class="topdaddy link" href="../../en/competition"  >
+						<span>Competition</span>
+		</a>	
+				<div class="drop-wrap columns-1"><div class="png drop1"><div class="drop2"><div class="drop3"></div></div></div>
+	<ul class="png columns-1">
+					
+			<li class="item154  c0" >
+			<a class="link" href="../../en/competition/winners-2011"  >
+						<span>2011</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item148  c0" >
+			<a class="link" href="../../en/competition/winners-2010"  >
+						<span>2010</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item140  c0" >
+			<a class="link" href="../../en/competition/winners-2009"  >
+						<span>2009</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item141  c0" >
+			<a class="link" href="../../en/competition/winners-2008"  >
+						<span>2008</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item142  c0" >
+			<a class="link" href="../../en/competition/winners-2007"  >
+						<span>2007</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item143  c1 coltop" >
+			<a class="link" href="../../en/competition/winners-2006"  >
+						<span>2006</span>
+		</a>	
+			
+</li>	
+			</ul>
+	</div>
+		
+</li>	
+			<li class="item115 parent " >
+			<a class="topdaddy link" href="../../en/community"  >
+						<span>Community</span>
+		</a>	
+				<div class="drop-wrap columns-1"><div class="png drop1"><div class="drop2"><div class="drop3"></div></div></div>
+	<ul class="png columns-1">
+					
+			<li class="item116  c0 coltop" >
+			<a class="link" href="http://wiki.softwarefreedomday.org/"  >
+						<span>SFD Wiki</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item117  c0" >
+			<a class="link" href="../../en/community/mailing-lists"  >
+						<span>Mailing lists</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item118  c0" >
+			<a class="link" href="../../en/community/irc-chat"  >
+						<span>IRC Chat</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item150  c0" >
+			<a class="link" href="../../en/community/sfd-planet"  >
+						<span>SFD Planet</span>
+		</a>	
+			
+</li>	
+			</ul>
+	</div>
+		
+</li>	
+			<li class="item120 parent " >
+			<a class="topdaddy link" href="../../en/sfd"  >
+						<span>About SFD</span>
+		</a>	
+				<div class="drop-wrap columns-1"><div class="png drop1"><div class="drop2"><div class="drop3"></div></div></div>
+	<ul class="png columns-1">
+					
+			<li class="item121  c0" >
+			<a class="link" href="../../en/sfd/software-freedom"  >
+						<span>Software Freedom</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item122  c0" >
+			<a class="link" href="../../en/sfd/press-coverage"  >
+						<span>Press Coverage</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item156  c0" >
+			<a class="link" href="../../en/sfd/interviews"  >
+						<span>Interviews</span>
+		</a>	
+			
+</li>	
+			</ul>
+	</div>
+		
+</li>	
+			<li class="item123 " >
+			<a class="topdaddy link" href="../../en/contact-us"  >
+						<span>Contact us</span>
+		</a>	
+			
+</li>	
+	</ul>
+								<div class="clr"></div>
+				</div></div></div>
+								<!--End Horizontal Menu-->
+
+		<!--Begin Scroller-->
+		<div id="vertical-sort"><div class="scrolladjust">
+		<div class="show-tm"><div class="show-tl"></div><div class="show-tr"></div></div>
+		<div class="show-m"><div class="show-l"><div class="show-r">
+			<div class="scroller-module">
+				<div class="scroller-bottom">
+	<div class="scroller-bottom1">
+		<div class="scroller-bottom2">
+			<div class="scroller-top">
+				<div class="scroller-top1">
+					<div class="scroller-top2">
+						<!-- Content START -->
+							<div id="rokintroscroller" class="">
+								
+
+
+                <div class="scroller-item">
+				
+            <div class="scroll-img"><a href="http://www.ubuntu.com/" target="_blank"><img class="scroll-img2" src="http://www.softwarefreedomday.org/images/stories/sponsorlist/canonical.png" border="0" alt="Canonical" /></a></div> 
+
+                   
+        </div>
+            <div class="scroller-item">
+				
+            <div class="scroll-img"><a href="http://code.google.com/" target="_blank"><img class="scroll-img2" src="http://www.softwarefreedomday.org/images/stories/sponsorlist/google.png" border="0" alt="Google" /></a></div> 
+
+                   
+        </div>
+            <div class="scroller-item">
+				
+            <div class="scroll-img"><a href="http://www.linode.com/" target="_blank"><img class="scroll-img2" src="http://www.softwarefreedomday.org/images/stories/sponsorlist/linode.png" border="0" alt="Linode" /></a></div> 
+
+                   
+        </div>
+            <div class="scroller-item">
+				
+            <div class="scroll-img"><a href="http://www.fsf.org/" target="_blank"><img class="scroll-img2" src="http://www.softwarefreedomday.org/images/stories/sponsorlist/fsf.png" border="0" alt="FSF" /></a></div> 
+
+                   
+        </div>
+            <div class="scroller-item">
+				
+            <div class="scroll-img"><a href="http://www.lemote.com/en/" target="_blank"><img class="scroll-img2" src="http://www.softwarefreedomday.org/images/stories/sponsorlist/lemote-logo.png" border="0" alt="Lemote!" /></a></div> 
+
+                   
+        </div>
+            <div class="scroller-item">
+				
+            <div class="scroll-img"><a href="http://www.linux-magazine.com/" target="_blank"><img class="scroll-img2" src="http://www.softwarefreedomday.org/images/stories/sponsorlist/linuxmagazine.png" border="0" alt="Linux Magazine" /></a></div> 
+
+                   
+        </div>
+            <div class="scroller-item">
+				
+            <div class="scroll-img"><a href="http://www.ubuntu-user.com/" target="_blank"><img class="scroll-img2" src="http://www.softwarefreedomday.org/images/stories/sponsorlist/ubuntuuser.png" border="0" alt="Ubuntu User" /></a></div> 
+
+                   
+        </div>
+            <div class="scroller-item">
+				
+            <div class="scroll-img"><a href="http://www.linuxjournal.com/" target="_blank"><img class="scroll-img2" src="http://www.softwarefreedomday.org/images/stories/sponsorlist/linuxjournal.png" border="0" alt="Linux Journal" /></a></div> 
+
+                   
+        </div>
+            <div class="scroller-item">
+				
+            <div class="scroll-img"><a href="http://www.admin-magazine.com/" target="_blank"><img class="scroll-img2" src="http://www.softwarefreedomday.org/images/stories/sponsorlist/admin.png" border="0" alt="Admin Network & Security Magazine" /></a>
+</div> 
+
+                   
+        </div>
+            <div class="scroller-item">
+				
+            <div class="scroll-img"><a href="http://www.smart-developer.com/" target="_blank"><img class="scroll-img2" src="http://www.softwarefreedomday.org/images/stories/sponsorlist/smart.png" border="0" alt="Smart Developer" /></a></div> 
+
+                   
+        </div>
+            <div class="scroller-item">
+				
+            <div class="scroll-img"><a href="http://www.creativecommons.org/" target="_blank"><img class="scroll-img2" src="http://www.softwarefreedomday.org/images/stories/sponsorlist/creativecommons.png" border="0" alt="Creative Commons" /></a></div> 
+
+                   
+        </div>
+            <div class="scroller-item">
+				
+            <div class="scroll-img"><a href="http://www.freebsd.org//" target="_blank"><img class="scroll-img2" src="http://www.softwarefreedomday.org/images/stories/sponsorlist/freebsd-logo.png" border="0" alt="FreeBSD" /></a></div> 
+
+                   
+        </div>
+            <div class="scroller-item">
+				
+            <div class="scroll-img"><a href="http://www.joomla.org/" target="_blank"><img class="scroll-img2" src="http://www.softwarefreedomday.org/images/stories/sponsorlist/joomla-logo.png" border="0" alt="Joomla!" /></a></div> 
+
+                   
+        </div>
+            <div class="scroller-item">
+				
+            <div class="scroll-img"><a href="http://www.openclipart.org/" target="_blank"><img class="scroll-img2" src="http://www.softwarefreedomday.org/images/stories/sponsorlist/ocl.png" border="0" alt="Open Clipart Library" /></a></div> 
+
+                   
+        </div>
+            <div class="scroller-item">
+				
+            <div class="scroll-img"><a href="http://www.fsfe.org/" target="_blank"><img class="scroll-img2" src="http://www.softwarefreedomday.org/images/stories/sponsorlist/fsfe.png" border="0" alt="FSFE" /></a></div> 
+
+                   
+        </div>
+    							<!-- Content END -->		
+
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+			</div>
+			<div class="clr"></div>
+		</div></div></div>
+		<div class="show-bm"><div class="show-bl"></div><div class="show-br"></div></div>
+</div></div>
+				<!--End Scroller-->
+
+				<div id="vertical-sort">
+				<div id="section-row3" class="section-row"><div id="section-row3-inner">
+			<div id="main-body-surround" class="spacer"><div id="main-body" class="spacing">
+						<div class="module-light"><div class="body-surround-top"><div class="body-surround-top2"><div class="body-surround-top3"></div></div></div>
+	<div class="body-surround"><div class="body-surround2"><div class="body-surround3">
+							<div id="main-content"><div id="maincol">
+			  						<div class="maincol-padding"><div id="breadcrumbs"><div id="breadcrumbs2"><div id="breadcrumbs3"><a href="../../index.html" id="breadcrumbs-home"></a><span class="breadcrumbs pathway">
+</span>
+</div></div></div>
+			  							<div class="bodycontent">
+											<div class="mainbody-surround">
+			   									<div id="maincontent-block">
+													<h2 class="componentheading">
+	Forgot your Username?</h2>
+<div class="form-reset">
+<form action="http://www.softwarefreedomday.org/en/component/user/?task=remindusername" method="post" class="josForm form-validate">
+	<p>Please enter the e-mail address associated with your User account. Your username will be e-mailed to the e-mail address on file.</p>
+
+	<label for="email" class="hasTip" title="E-mail Address::Please enter the e-mail address associated with your account.">E-mail Address:</label>
+	<div class="input-field-l"><input id="email" name="email" type="text" class="inputbox required validate-email" /></div>
+	<div class="clr"></div>
+	<div class="readon-wrap1"><div class="readon1-l"></div><a class="readon-main"><span class="readon1-m"><span class="readon1-r"><input type="submit" class="button validate" value="Submit" /></span></span></a></div>
+	<input type="hidden" name="634677ccedd81615e2db063b2836bb91" value="1" /></form>
+</div>
+			   									</div>
+												<div class="mainbody-tl"></div><div class="mainbody-tr"></div><div class="mainbody-bl"></div><div class="mainbody-br"></div>
+											</div>
+			  							</div>
+			  						</div>
+			  					</div>    
+							</div>
+									<div id="leftcol">
+					                	<div id="leftcol-bg">	
+		
+	<div class="_menu inactive:113">
+		<div class="side-mod">
+						<div class="module-header"><div class="module-header2"><div class="module-header3"><h3 class="module-title">Main Menu</h3></div></div></div>
+						<div class="module">
+				<ul class="menu"><li class="item1"><a href="../../index.html"><span>Home</span></a></li><li class="parent  item110"><a href="../../en/participate" class="topdaddy"><span>Participate</span></a></li><li class="parent  item126"><a href="../../map.1" class="topdaddy"><span>Events Map</span></a></li><li class="parent  item139"><a href="../../en/competition" class="topdaddy"><span>Competition</span></a></li><li class="parent  item115"><a href="../../en/community" class="topdaddy"><span>Community</span></a></li><li class="parent  item120"><a href="../../en/sfd" class="topdaddy"><span>About SFD</span></a></li><li class="item123"><a href="../../en/contact-us"><span>Contact us</span></a></li></ul>			</div>
+		</div>
+	</div>
+	
+					                	</div>
+									</div></div></div></div><div class="body-surround-bottom"><div class="body-surround-bottom2"><div class="body-surround-bottom3"></div></div></div>
+					</div>
+					
+				</div></div></div></div>				</div>
+			</div>
+			<!--Begin Bottom Section-->
+			<div id="bottom-bg">
+				<div class="wrapper">
+										<div id="bottom-menu"><div id="bottom-menu2"><div id="bottom-menu3"><div id="bottom-menu-overlay">
+								<div class="moduletable">
+					<ul class="menu-nav"><li class="item28"><a href="http://www.digitalfreedomfoundation.org"><span>About DFF</span></a></li><li class="item125"><a href="../../en/sponsors-and-supporters"><span>Sponsors and Supporters</span></a></li><li class="item124"><a href="../../en/blog.1"><span>Blog</span></a></li><li class="item133"><a href="../../en/contact-us"><span>Contact us</span></a></li></ul>		</div>
+	
+					</div></div></div></div>
+															<div id="top-button"><a href="remind#" id="top-scroll" class="top-button-desc">Back to Top</a></div>
+									</div>
+			</div>
+						<div id="bottom">
+				<div class="wrapper">
+										<div id="bottommodules" class="spacer w33">
+												<div class="block first">
+								<div class=" bottom:48">
+		<div class="moduletable">
+						<ul>
+<li><a href="http://wiki.softwarefreedomday.org/RecentChanges?action=newaccount">SFD Wiki Account Setup</a></li>
+<li><a href="http://wiki.softwarefreedomday.org/CreateYourTeampage">How to Create your Wiki Team Page</a></li>
+<li><a href="http://wiki.softwarefreedomday.org/StartGuide">Getting Started Guide</a></li>
+<li><a href="../../cgi-bin/register.py">Team Registration Page</a></li>
+<li><a href="../../map/index.php?year=2013">2013 Events Map</a></li>
+<li><a href="http://wiki.softwarefreedomday.org/Resources">Event Preparation Resources</a></li>
+</ul>		</div>
+	</div>
+	
+						</div>
+																		<div class="block middle">
+								<div class=" bottom2:21">
+		<div class="moduletable">
+						<h3>Who's Online</h3>
+						 We have&nbsp;148 guests&nbsp;online		</div>
+	</div>
+	
+						</div>
+																		<div class="block last">
+								<div class=" bottom3:50">
+		<div class="moduletable">
+						<div style="text-align: justify;"><strong>Digital Freedom International</strong> (Aka SFI) is the non-profit organization at the origin of <strong>SFD </strong>and<strong> CFD</strong>. <strong>DFI</strong> handles sponsorship contracts, official team registrations, sending out schwags to teams, the annual <strong>Best Event Competition</strong> and many other things. <strong>Hundreds of teams around the world</strong> manage the local celebration and help to send out a global message. So do drop by and attend an <strong>SFD and CFD event</strong> nearby!</div>		</div>
+	</div>
+	
+						</div>
+											</div>
+															<div class="footer-mod">
+						
+					</div>
+														</div>
+			</div>
+						<!--End Bottom Section-->
+		</div></div>
+						<div id="login-module">
+								<div class="moduletable">
+					<h3>Login Form</h3>
+					
+<div class="main-login-form">
+	<form action="http://www.softwarefreedomday.org/en/component/user/" method="post" name="login" class="form-login">
+				<div class="username-block">
+			<div class="input-field-l"><input name="username" type="text" class="inputbox" value="Username" alt="Username" onblur="if(this.value=='') this.value='Username';" onfocus="if(this.value=='Username') this.value='';" /></div>
+		</div>
+		<div class="password-block">
+			<div class="input-field-l"><input type="password" name="passwd" class="inputbox" alt="Password" /></div>
+		</div>
+		<div class="login-extras">
+			<div class="remember-me">
+			<input type="checkbox" name="remember" class="checkbox" value="yes" alt="Remember Me" />
+			<label class="remember">
+				Remember Me			</label>	
+			</div>
+			<div style="overflow: hidden;">
+			<div class="readon-wrap1"><div class="readon1-l"></div><a class="readon-main"><span class="readon1-m"><span class="readon1-r"><input type="submit" name="Submit" class="button" value="Log in" /></span></span></a></div></div>
+			<div class="clr"></div>		
+			<div class="login-links">
+			<p>
+				<a href="../../en/component/user/reset#content">
+					Forgot your password?</a>
+			</p>
+			<p>
+				<a href="../../en/component/user/remind#content">
+					Forgot your username?</a>
+			</p>
+			</div>
+						<input type="hidden" name="option" value="com_user" />
+			<input type="hidden" name="task" value="login" />
+			<input type="hidden" name="return" value="L2NvbXBvbmVudC91c2VyL3JlbWluZCNjb250ZW50" />
+			<input type="hidden" name="634677ccedd81615e2db063b2836bb91" value="1" />		</div>
+	</form>
+</div>
+		</div>
+	
+					</div>
+		<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17594484-1']);
+  _gaq.push(['_setDomainName', 'softwarefreedomday.org']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+	</body>
+</html>
